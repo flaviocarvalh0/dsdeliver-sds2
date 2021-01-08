@@ -1,9 +1,11 @@
 import './App.css';
-import Hello from './Hello'
+import Navbar from './Navbar';
 function App() {
   return (
     <div >
-      <Hello />
+      <h1>
+        <Navbar/>
+      </h1>
     </div>
   );
 }
