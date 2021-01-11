@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { isTemplateTail } from 'typescript';
 import { fetchProducts, saveOrder } from '../api';
 import { toast } from 'react-toastify';
 import Footer from '../Footer';
