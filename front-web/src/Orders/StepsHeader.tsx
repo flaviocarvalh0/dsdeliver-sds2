@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/heading-has-content */
-
 function StepsHeader(){
     return(
         <header className="orders-steps-container">
